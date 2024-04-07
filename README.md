@@ -1,0 +1,2 @@
+# MS_Azure_AI900_DIO_An-lise_Sentimentos_com_Language_Studio
+Projeto para certificação IA900
